@@ -1,0 +1,10 @@
+1. apa itu mikrokontroller dan bedanya dgn mikroprocessor
+2. apa itu robot dan robot vision
+3. tuliskan jenis mikrokontroler arduino serta spesifikasi dan fungsinya
+4. program led berjalan dari kiri ke kanan 8 pin looping pake for
+5. program robot maju mundur kanan kiri stop
+6. program robot ping parallax penghindar tembok
+7. program servo lengan 3 dof
+8. program robot peniup lilin
+9. program matlab mendeteksi warna merah
+10. fungsi matlab utk mendeteksi kamera, menjalankan video secara realtime, menyambungkan pc lewat serial
